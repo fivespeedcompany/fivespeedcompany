@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a creative technologist, focused on building tools that impact creative workflows in a positive way.
+I’m a creative technologist focused on building tools that impact creative workflows in a positive way.
 
 The following tools are in production and used by over 10,000 creators:
 
