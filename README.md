@@ -1,21 +1,25 @@
 ## Hi there 👋
-I’m a filmmaker, 3D artist, and software builder creating tools that help creators work smarter and express themselves more freely.
+I’m a creative technologist, focused on building tools that impact creative workflows in a positive way.
 
-🚀 What I’m Working On
+The following tools are in production and used by over 10,000 creators:
 
 mycliq.co — a mobile website builder / homepage in your pocket with customizable 3D visuals
 
-Tastemaker — an offline visual-reference library built for creators
+tastemaker.site — an offline visual-reference library built for creators
 
-🛠️ Tools I Use
+🛠️ Tech Stack
 
 Languages: TypeScript, Rust, Python
 
 Frameworks: Next.js, React, Tauri, Three.js
 
-Design / 3D: Blender, Cinema 4D, After Effects, Figma
+Design / 3D: Blender, After Effects, Figma
 
-Infra: Supabase, Vercel, Cloudflare, Redis
+Infra:  Cloudflare, Redis, Supabase, Vercel
+
+Thanks for stopping by!
+- Patrick
+patrickcasella.com
 
 
 <!--
