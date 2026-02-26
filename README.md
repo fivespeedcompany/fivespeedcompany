@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-By day, I'm running [Motion Directive](www.motiondirective.com) 
+By day, I'm running [Motion Directive](https://www.motiondirective.com/) 
 
 By night, I'm focused on building tools that change the way creatives interact with technology.
 
