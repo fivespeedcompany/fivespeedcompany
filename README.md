@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 By day, I'm running [Motion Directive](www.motiondirective.com) 
+
 By night, I'm focused on building tools that change the way creatives interact with technology.
 
 The following tools I created are in production and used by 20,000+ creatives:
