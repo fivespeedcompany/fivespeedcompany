@@ -13,12 +13,12 @@ Languages: TypeScript, Rust, Python
 
 Frameworks: Next.js, React, Tauri, Three.js
 
-Design / 3D: Blender, After Effects, Figma
+Design: Blender, After Effects, Figma
 
 Infra:  Cloudflare, Redis, Supabase, Vercel
 
 Thanks for stopping by!
-- patrickcasella.com
+-[Some Extra Goodies](patrickcasella.com)
 
 
 <!--
