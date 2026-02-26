@@ -3,9 +3,9 @@ I’m a creative technologist focused on building tools that impact creative wor
 
 The following tools are in production and used by over 10,000 creators:
 
-mycliq.co — a mobile website builder / homepage in your pocket with customizable 3D visuals
+[mycliq.co](https://www.mycliq.co/) — a mobile website builder / homepage in your pocket with customizable 3D visuals
 
-tastemaker.site — an offline visual-reference library built for creators
+[tastemaker](https://www.tastemaker.site/) — an offline visual-reference library built for creators
 
 🛠️ Tech Stack
 
