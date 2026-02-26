@@ -1,11 +1,13 @@
 ## Hi there 👋
-I’m a creative technologist focused on building tools that impact creative workflows in a positive way.
 
-The following tools are in production and used by over 10,000 creators:
+By day, I'm running [Motion Directive](www.motiondirective.com) 
+By night, I'm focused on building tools that change the way creatives interact with technology.
 
-[mycliq.co](https://www.mycliq.co/) — a mobile website builder / homepage in your pocket with customizable 3D visuals
+The following tools I created are in production and used by 20,000+ creatives:
 
-[tastemaker](https://www.tastemaker.site/) — an offline visual-reference library built for creators
+[mycliq.co](https://www.mycliq.co/) - a mobile website builder / homepage in your pocket with customizable 3D visuals
+
+[tastemaker](https://www.tastemaker.site/) - an offline visual-reference library built for creators
 
 🛠️ Tech Stack
 
@@ -18,7 +20,7 @@ Design: Blender, After Effects, Figma
 Infra:  Cloudflare, Redis, Supabase, Vercel
 
 Thanks for stopping by!
--[Some Extra Goodies](patrickcasella.com)
+- [Personal Site](patrickcasella.com)
 
 
 <!--
