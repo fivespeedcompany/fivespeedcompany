@@ -21,7 +21,7 @@ Design: Blender, After Effects, Figma
 Infra:  Cloudflare, Redis, Supabase, Vercel
 
 Thanks for stopping by!
-If you want to see more, I update [my personal site](patrickcasella.com) periodically.
+If you want to see more, I update [my personal site](https://www.patrickcasella.com/) periodically.
 
 
 <!--
