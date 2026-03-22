@@ -6,7 +6,7 @@ By night, I'm focused on building tools that change the way creatives interact w
 
 The following tools I created are in production and used by 30,000+ creatives:
 
-[mycliq.co](https://www.mycliq.co/) - a mobile website builder / customizable homepage in your pocket with video, photo, and music embeds.
+[mycliq](https://www.mycliq.co/) - a mobile website builder / customizable homepage in your pocket with video, photo, and music embeds.
 
 [tastemaker](https://www.tastemaker.site/) - an offline visual-reference library built for creators
 
