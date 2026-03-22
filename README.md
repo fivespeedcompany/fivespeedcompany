@@ -4,11 +4,13 @@ By day, I'm running [Motion Directive](https://www.motiondirective.com/)
 
 By night, I'm focused on building tools that change the way creatives interact with technology.
 
-The following tools I created are in production and used by 20,000+ creatives:
+The following tools I created are in production and used by 30,000+ creatives:
 
-[mycliq.co](https://www.mycliq.co/) - a mobile website builder / homepage in your pocket with customizable 3D visuals
+[mycliq.co](https://www.mycliq.co/) - a mobile website builder / customizable homepage in your pocket with video, photo, and music embeds.
 
 [tastemaker](https://www.tastemaker.site/) - an offline visual-reference library built for creators
+
+[mydraft](https://www.mydraft.co/) - an offline distraction-free writing app that helps you build a consistent writing habit.
 
 🛠️ Tech Stack
 
